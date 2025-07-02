@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Danu 👋
 
-<!--
-**Danu-DeSilva-26/Danu-DeSilva-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Cybersecurity & Networking Engineer  
+🔧 HND in Network Engineering | NIBM  
+💡 Passionate about SOC/NOC, Ethical Hacking, and Network Security  
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- Networking (Cisco, Wireshark, Firewalls)
+- Cybersecurity (Kali Linux, Burp Suite)
+- Programming: Python, Bash
+- Tools: Git, Linux, Metasploit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- 🔒 IoT-Based Safety System
+- 🕵️‍♂️ Design and Deploy a Network infrastructure to a enterprise company
+- ☁️ AWS Cloud Infrastructure for ERP
+
+### 📫 Let's connect!
+[LinkedIn](https://www.linkedin.com/in/danuri-de-silava-) | [Email](danudesilva40@gmail.com)
+
+
